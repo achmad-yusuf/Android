@@ -18,19 +18,19 @@ see demo here https://www.youtube.com/watch?v=RDjFazhrv2o<img width="850" height
 A lightweight Android application for managing end‑to‑end coal transportation operations between mining companies and transport service providers.
 
 🚚 Features
-Coal Load Tracking  
+*Coal Load Tracking  
 Record tonnage transported from mining sites to delivery points.
 
-Freight Tariff Management  
+*Freight Tariff Management  
 Store and calculate transport fees based on route, distance, and load.
 
-Driver Trip Allowance  
+*Driver Trip Allowance  
 Manage driver “uang jalan”, operational expenses, and trip costs.
 
-Fuel Usage Recording  
+*Fuel Usage Recording  
 Track fuel consumption and refueling during transport.
 
-Dispatch Documentation  
+*Dispatch Documentation  
 Digital record of outgoing and incoming delivery notes (surat jalan).
 
 🎯 Purpose
