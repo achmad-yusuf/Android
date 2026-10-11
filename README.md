@@ -4,7 +4,7 @@
 https://github.com/achmad-yusuf/Android
 
 2. Learning Diary on below link
-https://github.com/achmad-yusuf/Android at LearningDiary (github.com)
+[https://github.com/achmad-yusuf/Android](https://github.com/achmad-yusuf/LearningDiary) at LearningDiary (github.com)
 
 3.Project on link below
 https://github.com/achmad-yusuf/LoginaApp (github.com)
