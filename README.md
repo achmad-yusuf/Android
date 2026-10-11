@@ -36,6 +36,7 @@ Digital record of outgoing and incoming delivery notes (surat jalan).
 Designed to improve accuracy, transparency, and efficiency in coal logistics operations by digitizing manual processes into a simple mobile workflow.
 
 🛠️ Tech Stack
+
 Android (Java/Kotlin)
 
 SQLite / Room
