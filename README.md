@@ -18,6 +18,7 @@ see demo here https://www.youtube.com/watch?v=RDjFazhrv2o<img width="850" height
 A lightweight Android application for managing end‑to‑end coal transportation operations between mining companies and transport service providers.
 
 🚚 Features
+
 *Coal Load Tracking  
 Record tonnage transported from mining sites to delivery points.
 
