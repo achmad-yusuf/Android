@@ -2,10 +2,10 @@
 1.My github
 https://github.com/achmad-yusuf/Android
 
-2. learning Diary on below lin
+2. Learning Diary on below lin
 achmad-yusuf/Android at LearningDiary (github.com)
 
-3.project on link below
+3.Project on link below
 achmad-yusuf/LoginaApp (github.com)
 
 <img width="225" height="225" alt="unload" src="https://github.com/user-attachments/assets/8614ce95-fda0-4d9e-9630-c095d906de00" />
