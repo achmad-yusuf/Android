@@ -14,6 +14,7 @@ achmad-yusuf/LoginaApp (github.com)
 see demo here https://www.youtube.com/watch?v=RDjFazhrv2o<img width="850" height="434" alt="Sequence-diagram-for-the-communication-between-an-Android-web-service-provider-and-its" src="https://github.com/user-attachments/assets/73d11732-c7e6-4656-9975-70d140000ac6" />
 
 <img width="293" height="594" alt="menu" src="https://github.com/user-attachments/assets/18c01684-9f67-45b6-987b-2d80fc927cec" />
+
 📱 Coal Logistics Mobile App
 A lightweight Android application for managing end‑to‑end coal transportation operations between mining companies and transport service providers.
 
